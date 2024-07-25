@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "926085775753",
+    "project_id": "shopmarket-41177",
+    "storage_bucket": "shopmarket-41177.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926085775753:android:bc2aa974fff9c663be6158",
+        "android_client_info": {
+          "package_name": "com.example.admin_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYgiaUVDbS--QVmvQQ_RmrBOs2jRQlZR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926085775753:android:8d1e4fb9fe1f2cb4be6158",
+        "android_client_info": {
+          "package_name": "com.example.e_commerece"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYgiaUVDbS--QVmvQQ_RmrBOs2jRQlZR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
